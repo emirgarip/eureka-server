@@ -1,0 +1,10 @@
+server:
+  port: 8761
+spring:
+  application:
+    name: naming-server
+#  config:
+#    import: optional:configserver:http://localhost:8887
+#  cloud:
+#    config:
+#      profile: dev
